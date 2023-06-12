@@ -1,5 +1,11 @@
 # mobx-react-lite
 
+## 4.0.3
+
+### Patch Changes
+
+-   [`58bb052c`](https://github.com/mobxjs/mobx/commit/58bb052ca41b8592e5bd5c3003b68ec52da53f33) [#3670](https://github.com/mobxjs/mobx/pull/3670) Thanks [@urugator](https://github.com/urugator)! - fix #3669: SSR: `useSyncExternalStore` throws due to missing `getServerSnapshot`
+
 ## 4.0.2
 
 ### Patch Changes
